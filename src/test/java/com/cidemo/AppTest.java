@@ -24,10 +24,12 @@ public class AppTest
         assertEquals(2, response);
     }
 
+    /*
     @Test
     public void Test3()
     {
         int response = calculator.calcularMayor(1,-2,-3);
         assertEquals(4, response);
     }
+    */
 }
